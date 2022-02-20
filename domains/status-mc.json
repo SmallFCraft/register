@@ -1,0 +1,11 @@
+{
+  "description": "My personal website",
+  "repo": "https://github.com/SmallFCraft/status-mc.github.io",
+  "owner": {
+    "username": "Pham Huy",
+    "email": "huytqd@gmail.com"
+  },
+  "record": {
+    "CNAME": "status-mc.github.io"
+  }
+}
